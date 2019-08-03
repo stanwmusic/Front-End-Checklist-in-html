@@ -31,9 +31,7 @@ All links will open in a new  tab or window  depending on your browser settings.
     <body>
         <article>
             <h1 align="center">
-<br>
-  <img src="tocsrc/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="170">
-  <br>
+ <img src="tocsrc/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="170">
     <br>
   Front-End Checklist
   <br>

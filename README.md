@@ -31,11 +31,11 @@ Read " The perfect Front-End Checklist for modern websites and meticulous develo
             <h1 align="center">
 <br>
   <img src="tocsrc/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="170">
-  <br>
     <br>
   Front-End Checklist
   <br>
 </h1>
+  <p align="center"><strong>Links in this page will open in a new browser window or tab depending on your browser settings</strong></p>
 
 <h4 align="center">The Front-End Checklist is an exhaustive list of all 
 elements you need to have / to test before launching your website / HTML
